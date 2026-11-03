@@ -1,0 +1,11 @@
+# Claves y credenciales: nunca van al repositorio (es público)
+.env
+.env.*
+*.key
+*.pem
+secrets*
+credenciales*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
